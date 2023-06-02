@@ -1,9 +1,14 @@
 # passcipy
 Friendly password generator
 
-import string
-import random
+
 
   ██  ██ ██▒█▒██ ██▒▒██
                 ██  ██ ██ ▒ ██ ██  ██
                    ▒████▒ ██   ██ █████▒
+
+Install/Use:
+
+git clone https://github.com/pwd-sec/passcipy.git
+./passcipy.py 
+
